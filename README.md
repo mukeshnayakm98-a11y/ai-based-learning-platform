@@ -2,4 +2,4 @@
 AI BASED LEARNING PLATFORM
 
 
-Mukesh Nayak's Repo Don;t Touch
+Mukesh Nayak's Repo Don't Touch
